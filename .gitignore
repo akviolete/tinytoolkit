@@ -1,0 +1,13 @@
+#
+# clion vscode
+#
+.idea
+.code
+
+#
+# build
+#
+build
+build_linux
+build_rk3308
+build_android

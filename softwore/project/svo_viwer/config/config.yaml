@@ -1,0 +1,30 @@
+#===========================#
+# PangolinViewer Parameters #
+#===========================#
+
+point_size: 2
+viewpoint_x: 0
+camera_size: 0.08
+keyframe_size: 0.07
+graph_line_width: 1
+camera_line_width: 3
+keyframe_line_width: 1
+
+
+
+#===========================#
+# Socket Server Parameters  #
+#===========================#
+
+SocketServer.port: 8888
+SocketServer.size: 8290304  #1024*1024*4
+SocketServer.host: 0.0.0.0
+
+
+#===========================#
+# Socket Client Parameters  #
+#===========================#
+
+SocketClient.port: 8888
+SocketClient.size: 8290304  #1024*1024*4
+SocketClient.host: 127.0.0.1

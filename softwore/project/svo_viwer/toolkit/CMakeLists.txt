@@ -1,0 +1,4 @@
+﻿#
+# 遍历递归当前目录获取源文件
+#
+TRAVERSE_CURRENT_DIRECTORY_ADD_PROJECT()
