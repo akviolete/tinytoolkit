@@ -1,6 +1,10 @@
 The tinyToolkit C++ Project
 ====================================================
-## thanks for hm 
+## 
+## 主要借鉴hm大佬c++ tinyToolkit
+## 在hm大佬基础上做增删改查
+## 非常感谢hm大佬
+##
 
 ## 1. 环境
 
